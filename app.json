@@ -6,7 +6,7 @@
     "elasticsearch", "elastic", "bonsai"
   ],
   "website": "https://bonsai.io/",
-  "repository": "https://github.com/omc/heroku-kibana",
+  "repository": "https://github.com/casamanya/heroku-kibana",
   "logo": "https://cdn.rawgit.com/omc/heroku-kibana/master/kibana.svg",
   "success_url": "/",
   "env": {
